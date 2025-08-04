@@ -6,10 +6,9 @@ A full-stack e-commerce platform built using the **MERN stack** (MongoDB, Expres
 
 ## 📂 Project Structure
 
-E-Commerce/
-├── backend/ # Node.js + Express + MongoDB (API server)
-├── frontend/ # React.js (UI)
-└── README.md
+- E-Commerce
+- backend/ # Node.js + Express + MongoDB (API server)
+- frontend/ # React.js (UI)
 
 ---
 
