@@ -97,7 +97,3 @@ REACT_APP_API_URL=http://localhost:5000
 ## 👤 Author
 #### Himanshu Raj
 #### Nikhil Prakash
-
----
-
-Let me know if your frontend is built with **Redux**, **Tailwind**, or **Material UI**, and I can ref
